@@ -67,7 +67,7 @@ class BankaDbIslem:
 
     def insert_odeme(self, conn, odeme):
         sql = """
-            INSERT INTO Ödemeler ()
+            INSERT INTO Odemeler ()
             VALUES ();
             """
         try:
